@@ -1,0 +1,6 @@
+{
+  "name": "CS-IMSLWM Monitoring Portal — Jimma City",
+  "description": "Climate-Smart Integrated Municipal Solid & Liquid Waste Management digital monitoring and decision-support prototype portal for Jimma City, Ethiopia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
